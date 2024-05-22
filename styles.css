@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #2046A4;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header img {
+    max-width: 100px;
+    height: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    border-bottom: 2px solid #2046A4;
+}
+
+nav a {
+    padding: 1rem;
+    text-decoration: none;
+    color: #2046A4;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background-color: #2046A4;
+    color: #ffffff;
+}
+
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.hero {
+    text-align: center;
+    background-color: #2046A4;
+    color: #ffffff;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.intro {
+    text-align: center;
+    padding: 2rem;
+}
+
+.blog h2, .contacto h2, .sobre-nosotros h2 {
+    color: #2046A4;
+    border-bottom: 2px solid #2046A4;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border: 1px solid #2046A4;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: #ffffff;
+}
+
+.contacto form label {
+    display: block;
+    margin-top: 1rem;
+}
+
+.contacto form input, .contacto form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contacto form input[type="submit"] {
+    background-color: #2046A4;
+    color
