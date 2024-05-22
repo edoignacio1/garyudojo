@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dojo Garyu - Sobre Nosotros</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo-dojo-garyu.png" alt="Logo Dojo Garyu">
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="blog.html">Blog</a>
+            <a href="contacto.html">Contacto</a>
+            <a href="sobre-nosotros.html">Sobre Nosotros</a>
+        </nav>
+    </header>
+    <main>
+        <section class="sobre-nosotros">
+            <h2>Sobre Nosotros</h2>
+            <p>
